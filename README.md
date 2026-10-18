@@ -1,4 +1,4 @@
-# Hi, mein Name ist Nick! 👋
+## Hi, mein Name ist Nick! 👋
 
 **B.Eng. Student: Robotik & Automatisierung** | Westfälische Hochschule  
 Fokus auf Mobile Systeme, Embedded Engineering & Machine Vision.
